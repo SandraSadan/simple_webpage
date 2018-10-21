@@ -1,0 +1,38 @@
+
+#ji ul 
+{
+	
+width: 100%;
+
+	padding-top: 10px;
+
+
+}
+#ji ul li
+{
+	float: left;
+	padding: 40px ;
+	display: block;
+	text-transform: uppercase;
+	background :transparent;
+}
+#ji ul li:hover
+{
+	
+	filter: brightness(0.5);
+}
+
+#ji ul{
+ z-index:9;
+ position: absolute;
+
+ 
+
+}
+#myCarousel{
+ top:0;
+ display: block;
+    width: 100%;
+    height: auto;
+
+}
